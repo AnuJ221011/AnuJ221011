@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5YjQyeG5lNjZoNWJuMHExam5kb2RjZW1tcDBldHVsYnhrN3NzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" height="320" margin-top="20" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5YjQyeG5lNjZoNWJuMHExam5kb2RjZW1tcDBldHVsYnhrN3NzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj221011&label=Profile%20views&color=0e75b6&style=flat" alt="anuj221011" /> </p>
 
