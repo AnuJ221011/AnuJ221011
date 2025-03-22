@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development & Competitive Programming.**
 
-- 👨‍💻 All of my projects are available at [https://anuj221011.github.io/My-Portfolio/](https://anuj-portfolio-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://anuj-portfolio-two.vercel.app/](https://anuj-portfolio-two.vercel.app/)
 
 - 📫 How to reach me **anujkum.own@gmail.com**
 
